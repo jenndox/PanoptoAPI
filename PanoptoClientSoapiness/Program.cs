@@ -14,7 +14,7 @@ namespace PanoptoClientSoapiness
         private static void Main(string[] args)
         {
             var hosts = new[] { 
-                new { ConfigName = "tableau", Description = "Via SLB and ELB" }                
+                new { ConfigName = "testing", Description = "Via SLB and ELB" }                
             };
             
             foreach (var host in hosts)
@@ -32,7 +32,7 @@ namespace PanoptoClientSoapiness
                     auth.AuthCode = String.Empty;
 
                     // Names of folders to scan
-                    string[] folderNames = new string[] { "Public", "Dev Academy" };
+                    string[] folderNames = new string[] { "One Folder", "Some other folder name" };
 
                     List<Session> sessions = new List<Session>();
 
