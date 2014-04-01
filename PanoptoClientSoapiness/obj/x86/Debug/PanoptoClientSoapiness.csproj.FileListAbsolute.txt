@@ -1,0 +1,6 @@
+C:\Users\jlin\Downloads\PanoptoClientSoapiness\PanoptoClientSoapiness\PanoptoClientSoapiness\bin\Debug\PanoptoClientSoapiness.exe.config
+C:\Users\jlin\Downloads\PanoptoClientSoapiness\PanoptoClientSoapiness\PanoptoClientSoapiness\bin\Debug\PanoptoClientSoapiness.exe
+C:\Users\jlin\Downloads\PanoptoClientSoapiness\PanoptoClientSoapiness\PanoptoClientSoapiness\bin\Debug\PanoptoClientSoapiness.pdb
+C:\Users\jlin\Downloads\PanoptoClientSoapiness\PanoptoClientSoapiness\PanoptoClientSoapiness\obj\x86\Debug\PanoptoClientSoapiness.csprojResolveAssemblyReference.cache
+C:\Users\jlin\Downloads\PanoptoClientSoapiness\PanoptoClientSoapiness\PanoptoClientSoapiness\obj\x86\Debug\PanoptoClientSoapiness.exe
+C:\Users\jlin\Downloads\PanoptoClientSoapiness\PanoptoClientSoapiness\PanoptoClientSoapiness\obj\x86\Debug\PanoptoClientSoapiness.pdb
